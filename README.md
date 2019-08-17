@@ -7,7 +7,7 @@
 
 ### Tools:
 
-- [ShadowsocksR](https://github.com/HaoleiQ/Over-The-Wall/tree/master/Tools/ShadowsocksR)
+- [ShadowsocksR](https://github.com/shadowsocksr-backup/shadowsocksr-android/releases)
 - [Shadowsocks](https://github.com/HaoleiQ/Over-The-Wall/tree/master/Tools/Shadowsocks)  
 - [OpenVpn](https://github.com/HaoleiQ/Over-The-Wall/tree/master/Tools/OpenVpn) 
 
