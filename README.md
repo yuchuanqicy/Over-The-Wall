@@ -3,16 +3,16 @@
 - 赛风 https://apkgk.com/com.vpn.psiphon.vpn
 
 ### SS SSR:
-- [Free SSR SS VPN](https://github.com/HaoleiQ/Over-The-Wall/blob/master/Wiki.md)
+- [Free SSR SS VPN](https://github.com/HaoleiQin/Over-The-Wall/blob/master/Wiki.md)
 
 ### Tools:
 
 - [ShadowsocksR](https://github.com/shadowsocksr-backup/shadowsocksr-android/releases)
-- [Shadowsocks](https://github.com/HaoleiQ/Over-The-Wall/tree/master/Tools/Shadowsocks)  
-- [OpenVpn](https://github.com/HaoleiQ/Over-The-Wall/tree/master/Tools/OpenVpn) 
+- [Shadowsocks](https://github.com/HaoleiQin/Over-The-Wall/tree/master/Tools/Shadowsocks)  
+- [OpenVpn](https://github.com/HaoleiQin/Over-The-Wall/tree/master/Tools/OpenVpn) 
 
 ### Pac:
-- [Pac-List](https://github.com/HaoleiQ/Over-The-Wall/blob/master/pac.txt)
+- [Pac-List](https://github.com/HaoleiQin/Over-The-Wall/blob/master/user-rule.txt)
 
 ### Others:
 
@@ -24,6 +24,6 @@
 
 - 随意打赏!
 
-![](https://github.com/HaoleiQ/Over-The-Wall/blob/master/image/wechatAndAliPay.png?raw=true) 
+![](https://github.com/HaoleiQin/Over-The-Wall/blob/master/image/wechatAndAliPay.png?raw=true) 
 
 * 本项目仅供学习参考,禁止用于一切违反当地法律的行为!

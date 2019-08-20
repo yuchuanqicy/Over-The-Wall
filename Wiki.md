@@ -18,4 +18,4 @@ ssr://NTQuMTgwLjE0Ny4xMzQ6NDc2NjU6b3JpZ2luOmNoYWNoYTIwOnBsYWluOllYQmxlSFF5TURFNU
 
 - 随意打赏!
 
-![](https://github.com/HaoleiQ/Over-The-Wall/blob/master/image/wechatAndAliPay.png?raw=true) 
+![](https://github.com/HaoleiQin/Over-The-Wall/blob/master/image/wechatAndAliPay.png?raw=true) 
