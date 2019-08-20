@@ -4,6 +4,8 @@
 
 ||xxx.com
 .xxx.com/ 
+||hubstaff.com
+.hubstaff.com/ 
 ||bptoptracker.com
 .bptoptracker.com/ 
 ||https://screenshotmonitor.com
